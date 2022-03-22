@@ -1,7 +1,4 @@
 # Hello! <img src="https://raw.githubusercontent.com/leanlord/leanlord/master/wave.gif" width="30px"> 
-<a href="https://open.spotify.com/user/7w4i2l64dsvnjlhzzhh164xwo?si=f5a23e799ec64309">
-  <img align="left" alt="leanlord's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=da-blackest-funeral.da-blackest-funeral)
 
