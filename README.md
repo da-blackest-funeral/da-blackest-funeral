@@ -14,8 +14,8 @@ My name is Fyodor Kazaryan and I'm a junior backend Laravel developer.
 
 # 📘 My projects
 <p align="left">
-  <a href="https://github.com/leanlord/creo"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=leanlord&repo=creo&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="creo"></a>
   <a href="https://github.com/da-blackest-funeral/IDS"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=da-blackest-funeral&repo=IDS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="IDS"></a>
+  <a href="https://github.com/leanlord/creo"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=leanlord&repo=creo&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="creo"></a>
   <a href="https://github.com/da-blackest-funeral/auto-shop"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=da-blackest-funeral&repo=auto-shop&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="auto-shop"></a>
   <a href="https://github.com/sl14888/react-kubSu"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sl14888&repo=react-kubSu&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="react-kubSu"></a>
   
