@@ -4,7 +4,7 @@
 
 My name is Fyodor Kazaryan and I'm a junior backend Laravel developer.
 
-## 🔧 Technologies & Tools
+## <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/technologist.gif" width="40px" height="40px"> Technologies & Tools
 
 ![](https://img.shields.io/badge/Editor-PhpStorm-informational?style=flat&logo=PhpStorm&color=68829E)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&color=8993be)
