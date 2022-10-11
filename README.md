@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=da-blackest-funeral.da-blackest-funeral)
 
-My name is Fyodor Kazaryan and I'm a junior backend Laravel developer.
+My name is Fyodor Kazaryan and I'm a backend Laravel developer.
 
 ## <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/technologist.gif" width="40px" height="40px"> Technologies & Tools
 
