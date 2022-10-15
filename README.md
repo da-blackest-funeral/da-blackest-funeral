@@ -14,8 +14,8 @@ My name is Fyodor Kazaryan and I'm a backend Laravel developer.
 
 # <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/memo.gif" width="35px" height="35px"> My projects
 <p align="left">
-  <a href="https://github.com/da-blackest-funeral/coys"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=da-blackest-funeral&repo=coys&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coys"></a>
-  <a href="https://github.com/leanlord/creo"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=leanlord&repo=creo&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="creo"></a>
+  <a href="https://github.com/da-blackest-funeral/Slotegrator-Code-Sample"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=da-blackest-funeral&repo=Slotegrator-Code-Sample&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Slotegrator-Code-Sample"></a>
+  <a href="https://github.com/da-blackest-funeral/foundarium-test"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=da-blackest-funeral&repo=foundarium-test&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="foundarium-test"></a>
   
 ## &#x1f4c8; GitHub Stats
 [![Fyodor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fyodor_kazaryan&layout=compact&langs_count=6)](https://wakatime.com/@fyodor_kazaryan)
