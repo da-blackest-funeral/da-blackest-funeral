@@ -16,8 +16,6 @@ My name is Fyodor Kazaryan and I'm a backend Laravel developer.
 <p align="left">
   <a href="https://github.com/da-blackest-funeral/coys"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=da-blackest-funeral&repo=coys&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coys"></a>
   <a href="https://github.com/leanlord/creo"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=leanlord&repo=creo&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="creo"></a>
-<!--   <a href="https://github.com/da-blackest-funeral/auto-shop"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=da-blackest-funeral&repo=auto-shop&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="auto-shop"></a> -->
-  <a href="https://github.com/sl14888/react-kubSu"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sl14888&repo=react-kubSu&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="react-kubSu"></a>
   
 ## &#x1f4c8; GitHub Stats
 [![Fyodor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fyodor_kazaryan&layout=compact&langs_count=6)](https://wakatime.com/@fyodor_kazaryan)
