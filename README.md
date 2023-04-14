@@ -10,7 +10,6 @@ My name is Fyodor Kazaryan and I'm a backend Laravel developer.
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&color=8993be)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=Laravel&color=ff291a)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL)
-![](https://img.shields.io/badge/Tools-Vagrant-informational?style=flat&logo=Vagrant&logoColor=1560f8&color=1560f8)
 
 # <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/memo.gif" width="35px" height="35px"> My projects
 <p align="left">
